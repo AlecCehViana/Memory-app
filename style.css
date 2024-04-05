@@ -1,0 +1,18 @@
+div h3{
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding-left: 40%;
+  padding-top: 10%;
+}
+
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+  width: 400px;
+  height: 300px;
+  align-items: center;
+  justify-content: center;
+  padding-left: 40%;
+  padding-top: 10%;
+}
